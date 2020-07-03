@@ -1,0 +1,456 @@
+	http://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app100.us.archive.org&server_ms=453&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=2087&nav_to_done_ms=2333&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+	http://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app100.us.archive.org&server_ms=453&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=2270&nav_to_done_ms=2482&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+	http://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app100.us.archive.org&server_ms=453&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=2335&nav_to_done_ms=2551&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+	http://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app100.us.archive.org&server_ms=453&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=3028&nav_to_done_ms=3302&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+	http://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app100.us.archive.org&server_ms=453&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=3447&nav_to_done_ms=3695&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+	http://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app100.us.archive.org&server_ms=453&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=3514&nav_to_done_ms=3835&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+	http://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app100.us.archive.org&server_ms=453&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=4216&nav_to_done_ms=4496&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+	http://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app100.us.archive.org&server_ms=453&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=4412&nav_to_done_ms=4766&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+	http://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app100.us.archive.org&server_ms=453&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=4415&nav_to_done_ms=4698&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+	http://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app100.us.archive.org&server_ms=453&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=4416&nav_to_done_ms=4699&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+	http://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app100.us.archive.org&server_ms=453&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=4577&nav_to_done_ms=4866&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+	http://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app100.us.archive.org&server_ms=453&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=4591&nav_to_done_ms=4827&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+http://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app13.us.archive.org&server_ms=447&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=1237&nav_to_done_ms=3126&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+http://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app39.us.archive.org&server_ms=724&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=2263&nav_to_done_ms=2527&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+http://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app39.us.archive.org&server_ms=724&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=2889&nav_to_done_ms=3235&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+http://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app39.us.archive.org&server_ms=724&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=3003&nav_to_done_ms=3357&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+http://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app39.us.archive.org&server_ms=724&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=3632&nav_to_done_ms=3941&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+http://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app39.us.archive.org&server_ms=724&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=3649&nav_to_done_ms=3999&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+http://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app39.us.archive.org&server_ms=724&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=3714&nav_to_done_ms=4030&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+http://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app39.us.archive.org&server_ms=724&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=4297&nav_to_done_ms=4626&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+http://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app39.us.archive.org&server_ms=724&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=4542&nav_to_done_ms=4791&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+http://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app39.us.archive.org&server_ms=724&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=4560&nav_to_done_ms=4824&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+http://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app39.us.archive.org&server_ms=724&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=4635&nav_to_done_ms=4893&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+http://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app39.us.archive.org&server_ms=724&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=4783&nav_to_done_ms=5056&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+http://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app39.us.archive.org&server_ms=724&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=4797&nav_to_done_ms=5117&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+	http://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app40.us.archive.org&server_ms=4050&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=1204&nav_to_done_ms=2063&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+		http://archive.org/includes/analytics.js?v=cf34f82
+	https://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app100.us.archive.org&server_ms=453&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=2087&nav_to_done_ms=2333&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+	https://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app100.us.archive.org&server_ms=453&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=2270&nav_to_done_ms=2482&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+	https://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app100.us.archive.org&server_ms=453&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=2335&nav_to_done_ms=2551&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+	https://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app100.us.archive.org&server_ms=453&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=3028&nav_to_done_ms=3302&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+	https://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app100.us.archive.org&server_ms=453&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=3447&nav_to_done_ms=3695&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+	https://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app100.us.archive.org&server_ms=453&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=3514&nav_to_done_ms=3835&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+	https://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app100.us.archive.org&server_ms=453&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=4216&nav_to_done_ms=4496&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+	https://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app100.us.archive.org&server_ms=453&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=4412&nav_to_done_ms=4766&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+	https://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app100.us.archive.org&server_ms=453&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=4415&nav_to_done_ms=4698&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+	https://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app100.us.archive.org&server_ms=453&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=4416&nav_to_done_ms=4699&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+	https://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app100.us.archive.org&server_ms=453&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=4577&nav_to_done_ms=4866&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+	https://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app100.us.archive.org&server_ms=453&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=4591&nav_to_done_ms=4827&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+https://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app13.us.archive.org&server_ms=447&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=1237&nav_to_done_ms=3126&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+https://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app39.us.archive.org&server_ms=724&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=2263&nav_to_done_ms=2527&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+https://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app39.us.archive.org&server_ms=724&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=2889&nav_to_done_ms=3235&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+https://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app39.us.archive.org&server_ms=724&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=3003&nav_to_done_ms=3357&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+https://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app39.us.archive.org&server_ms=724&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=3632&nav_to_done_ms=3941&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+https://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app39.us.archive.org&server_ms=724&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=3649&nav_to_done_ms=3999&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+https://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app39.us.archive.org&server_ms=724&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=3714&nav_to_done_ms=4030&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+https://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app39.us.archive.org&server_ms=724&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=4297&nav_to_done_ms=4626&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+https://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app39.us.archive.org&server_ms=724&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=4542&nav_to_done_ms=4791&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+https://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app39.us.archive.org&server_ms=724&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=4560&nav_to_done_ms=4824&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+https://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app39.us.archive.org&server_ms=724&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=4635&nav_to_done_ms=4893&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+https://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app39.us.archive.org&server_ms=724&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=4783&nav_to_done_ms=5056&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+https://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app39.us.archive.org&server_ms=724&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=4797&nav_to_done_ms=5117&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+	https://analytics.archive.org/0.gif?service=wb&server_name=wwwb-app40.us.archive.org&server_ms=4050&kind=pageview&timediff=0&locale=en-US&referrer=-&loadtime=1204&nav_to_done_ms=2063&ga_cd1=25.6px&ga_cd2=1&version=2&count=13
+		https://archive.org/components/npm/@babel/polyfill/dist/polyfill.min.js
+		https://archive.org/components/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js?v=be5c6240
+		https://archive.org/includes/analytics.js
+		https://archive.org/includes/analytics.js?v=cf34f82
+		https://archive.org/includes/build/js/ia-wayback-search.min.js?v=be5c6240
+		https://archive.org/includes/build/js/ie-dom-node-remove-polyfill.min.js
+		https://archive.org/includes/build/js/more-facets.min.js?v=be5c6240
+		https://archive.org/includes/build/js/radio-player-controller.min.js?v=be5c6240
+https://archive.org/includes/donate.php?as_page=1&transpiled=0&referer=http%3A//web.archive.org/web/20200628012605/https%3A//twitter.com/realDonaldTrump
+	https://archive.org/includes/donate.php?as_page=1&transpiled=0&referer=http%3A//web.archive.org/web/20200628015539/https%3A//twitter.com/realDonaldTrump
+		https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb
+		https://archive.org/includes/jquery-1.10.2.min.js
+		http://web.archive.org/amplify_video/1237535363159261186/pl/480x270/Wzi8o_bj7-WkwA3A.m3u8
+		http://web.archive.org/amplify_video/1271136135931203585/pl/480x270/xik2n88CsLaS1c6d.m3u8
+		http://web.archive.org/amplify_video/1273327834577154048/pl/480x270/-BjMgAXYmIUrPvAZ.m3u8
+		http://web.archive.org/ext_tw_video/1276989335124967434/pu/pl/494x270/9g3iGWJsDmv2aLvf.m3u8
+		http://web.archive.org/ext_tw_video/1276994905957642246/pu/pl/480x270/cQVUcfpRKquDXxfI.m3u8
+http://web.archive.org/save/_embed/https://analytics.twitter.com/tpm/p?_=1593307580322
+http://web.archive.org/save/_embed/https://analytics.twitter.com/tpm/p?_=1593307583136
+http://web.archive.org/save/_embed/https://analytics.twitter.com/tpm/p?_=1593307584892
+http://web.archive.org/save/_embed/https://analytics.twitter.com/tpm/p?_=1593307585290
+http://web.archive.org/save/_embed/https://analytics.twitter.com/tpm/p?_=1593307585903
+http://web.archive.org/save/_embed/https://analytics.twitter.com/tpm/p?_=1593307586025
+http://web.archive.org/save/_embed/https://analytics.twitter.com/tpm/p?_=1593307586133
+http://web.archive.org/save/_embed/https://analytics.twitter.com/tpm/p?_=1593307586202
+http://web.archive.org/save/_embed/https://analytics.twitter.com/tpm/p?_=1593307586426
+http://web.archive.org/save/_embed/https://analytics.twitter.com/tpm/p?_=1593307586526
+http://web.archive.org/save/_embed/https://analytics.twitter.com/tpm/p?_=1593307586538
+http://web.archive.org/save/_embed/https://analytics.twitter.com/tpm/p?_=1593307586847
+http://web.archive.org/save/_embed/https://analytics.twitter.com/tpm/p?_=1593307586938
+	http://web.archive.org/save/_embed/https://analytics.twitter.com/tpm/p?_=1593309356605
+	http://web.archive.org/save/_embed/https://analytics.twitter.com/tpm/p?_=1593309358548
+	http://web.archive.org/save/_embed/https://analytics.twitter.com/tpm/p?_=1593309358813
+	http://web.archive.org/save/_embed/https://analytics.twitter.com/tpm/p?_=1593309358922
+	http://web.archive.org/save/_embed/https://analytics.twitter.com/tpm/p?_=1593309358998
+	http://web.archive.org/save/_embed/https://analytics.twitter.com/tpm/p?_=1593309359426
+	http://web.archive.org/save/_embed/https://analytics.twitter.com/tpm/p?_=1593309359458
+	http://web.archive.org/save/_embed/https://analytics.twitter.com/tpm/p?_=1593309359589
+	http://web.archive.org/save/_embed/https://analytics.twitter.com/tpm/p?_=1593309359656
+	http://web.archive.org/save/_embed/https://analytics.twitter.com/tpm/p?_=1593309359855
+	http://web.archive.org/save/_embed/https://analytics.twitter.com/tpm/p?_=1593309360068
+	http://web.archive.org/save/_embed/https://analytics.twitter.com/tpm/p?_=1593309360308
+	http://web.archive.org/save/_embed/https://analytics.twitter.com/tpm/p?_=1593309360428
+http://web.archive.org/save/_embed/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593307581641%7D
+http://web.archive.org/save/_embed/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593307585139%7D
+http://web.archive.org/save/_embed/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593307587265%7D
+http://web.archive.org/save/_embed/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593307588061%7D
+http://web.archive.org/save/_embed/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593307588497%7D
+http://web.archive.org/save/_embed/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593307589411%7D
+http://web.archive.org/save/_embed/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593307590380%7D
+http://web.archive.org/save/_embed/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593307591385%7D
+http://web.archive.org/save/_embed/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593307592213%7D
+http://web.archive.org/save/_embed/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593307593202%7D
+http://web.archive.org/save/_embed/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593307594171%7D
+http://web.archive.org/save/_embed/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593307594319%7D
+http://web.archive.org/save/_embed/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593307595385%7D
+	http://web.archive.org/save/_embed/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593309361723%7D
+	http://web.archive.org/save/_embed/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593309363052%7D
+	http://web.archive.org/save/_embed/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593309363522%7D
+	http://web.archive.org/save/_embed/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593309363545%7D
+	http://web.archive.org/save/_embed/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593309364019%7D
+	http://web.archive.org/save/_embed/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593309364969%7D
+	http://web.archive.org/save/_embed/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593309365006%7D
+	http://web.archive.org/save/_embed/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593309365087%7D
+	http://web.archive.org/save/_embed/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593309365698%7D
+	http://web.archive.org/save/_embed/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593309365920%7D
+	http://web.archive.org/save/_embed/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593309366587%7D
+	http://web.archive.org/save/_embed/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593309367412%7D
+	http://web.archive.org/save/_embed/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593309368511%7D
+http://web.archive.org/save/_embed/https://twitter.com/amplify_video/1237535363159261186/pl/480x270/Wzi8o_bj7-WkwA3A.m3u8
+http://web.archive.org/save/_embed/https://twitter.com/amplify_video/1271136135931203585/pl/480x270/xik2n88CsLaS1c6d.m3u8
+http://web.archive.org/save/_embed/https://twitter.com/amplify_video/1273327834577154048/pl/480x270/-BjMgAXYmIUrPvAZ.m3u8
+http://web.archive.org/save/_embed/https://twitter.com/ext_tw_video/1276989335124967434/pu/pl/494x270/9g3iGWJsDmv2aLvf.m3u8
+http://web.archive.org/save/_embed/https://twitter.com/ext_tw_video/1276994905957642246/pu/pl/480x270/cQVUcfpRKquDXxfI.m3u8
+		http://web.archive.org/_static/css/banner-styles.css?v=HyR5oymJ
+		http://web.archive.org/_static/css/iconochive.css?v=qtvMKcIJ
+		http://web.archive.org/_static/css/record.css
+		http://web.archive.org/_static/images/loading.gif
+		http://web.archive.org/_static/images/toolbar/wayback-toolbar-logo.png
+		http://web.archive.org/_static/images/toolbar/wm_tb_nxt_off.png
+		http://web.archive.org/_static/images/toolbar/wm_tb_prv_on.png
+		http://web.archive.org/_static/images/web-screenshot.svg
+		http://web.archive.org/_static/js/playback.bundle.js?v=R56vIgLu
+		http://web.archive.org/_static/js/wombat.js?v=nWgLpXRB
+		http://web.archive.org/__wb/sparkline?output=json&url=https%3A%2F%2Ftwitter.com%2FrealDonaldTrump&collection=web
+	http://web.archive.org/web/20200531081200/https://abs.twimg.com/k/ja/13.video_player.ja.38fb4a742ab942588cfd.js
+	http://web.archive.org/web/20200531081200/https://api.twitter.com/1.1/videos/tweet/config/1276983762690150415.json
+	http://web.archive.org/web/20200531081200/https://api.twitter.com/1.1/videos/tweet/config/1276984639517851648.json
+	http://web.archive.org/web/20200531081200/https://api.twitter.com/1.1/videos/tweet/config/1276984850067656705.json
+	http://web.archive.org/web/20200531081200/https://api.twitter.com/1.1/videos/tweet/config/1276991332461039618.json
+	http://web.archive.org/web/20200531081200/https://api.twitter.com/1.1/videos/tweet/config/1276995624588709888.json
+	http://web.archive.org/web/20200531081206/https://abs.twimg.com/k/ja/15.ondemand.PlayerHls11.ja.304673362907f951662e.js
+		http://web.archive.org/web/20200627123653im_/https://pbs.twimg.com/media/EbdE2gtXkAgTnYX.jpg:thumb
+		http://web.archive.org/web/20200627123653im_/https://pbs.twimg.com/media/EbDEJQTWAAIJHCg.jpg:thumb
+		http://web.archive.org/web/20200627205059if_/https://twitter.com/i/profiles/show/realDonaldTrump/media_timeline?for_photo_rail=true
+		http://web.archive.org/web/20200627205059if_/https://twitter.com/i/trends?k=&pc=true&profileUserId=25073877&show_context=true&src=module
+		http://web.archive.org/web/20200627205115im_/https://pbs.twimg.com/media/EbAGJP0WAAACDiC.jpg:thumb
+		http://web.archive.org/web/20200627205115im_/https://pbs.twimg.com/media/EbAGJPyXQAIPcKV.jpg:thumb
+		http://web.archive.org/web/20200627205116im_/https://pbs.twimg.com/media/EbAGJP0XQAAnESu.jpg:thumb
+		http://web.archive.org/web/20200627205117im_/https://pbs.twimg.com/media/EbAGJP0XsAIKwLw.jpg:thumb
+		http://web.archive.org/web/20200627205127/http://web.archive.org/screenshot/https://twitter.com/realDonaldTrump
+	http://web.archive.org/web/20200628000000/https://www.google-analytics.com/analytics.js
+	http://web.archive.org/web/20200628000010/https://abs.twimg.com/k/ja/0.commons.ja.62a7d78906facbc62e77.js
+	http://web.archive.org/web/20200628000010/https://abs.twimg.com/k/ja/13.video_player.ja.38fb4a742ab942588cfd.js
+	http://web.archive.org/web/20200628000010/https://abs.twimg.com/k/ja/15.ondemand.PlayerHls11.ja.304673362907f951662e.js
+	http://web.archive.org/web/20200628000010/https://abs.twimg.com/k/ja/3.pages_profile.ja.69102234c27469d8361c.js
+	http://web.archive.org/web/20200628000010/https://abs.twimg.com/k/ja/init.ja.c9fffdca69c913847ca2.js
+	http://web.archive.org/web/20200628000010/https://analytics.twitter.com/tpm/p?_=1593309356605
+	http://web.archive.org/web/20200628000010/https://analytics.twitter.com/tpm/p?_=1593309358548
+	http://web.archive.org/web/20200628000010/https://analytics.twitter.com/tpm/p?_=1593309358813
+	http://web.archive.org/web/20200628000010/https://analytics.twitter.com/tpm/p?_=1593309358922
+	http://web.archive.org/web/20200628000010/https://analytics.twitter.com/tpm/p?_=1593309358998
+	http://web.archive.org/web/20200628000010/https://analytics.twitter.com/tpm/p?_=1593309359426
+	http://web.archive.org/web/20200628000010/https://analytics.twitter.com/tpm/p?_=1593309359458
+	http://web.archive.org/web/20200628000010/https://analytics.twitter.com/tpm/p?_=1593309359589
+	http://web.archive.org/web/20200628000010/https://analytics.twitter.com/tpm/p?_=1593309359656
+	http://web.archive.org/web/20200628000010/https://analytics.twitter.com/tpm/p?_=1593309359855
+	http://web.archive.org/web/20200628000010/https://analytics.twitter.com/tpm/p?_=1593309360068
+	http://web.archive.org/web/20200628000010/https://analytics.twitter.com/tpm/p?_=1593309360308
+	http://web.archive.org/web/20200628000010/https://analytics.twitter.com/tpm/p?_=1593309360428
+	http://web.archive.org/web/20200628000010/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593309361723%7D
+	http://web.archive.org/web/20200628000010/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593309363052%7D
+	http://web.archive.org/web/20200628000010/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593309363522%7D
+	http://web.archive.org/web/20200628000010/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593309363545%7D
+	http://web.archive.org/web/20200628000010/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593309364019%7D
+	http://web.archive.org/web/20200628000010/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593309364969%7D
+	http://web.archive.org/web/20200628000010/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593309365006%7D
+	http://web.archive.org/web/20200628000010/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593309365087%7D
+	http://web.archive.org/web/20200628000010/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593309365698%7D
+	http://web.archive.org/web/20200628000010/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593309365920%7D
+	http://web.archive.org/web/20200628000010/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593309366587%7D
+	http://web.archive.org/web/20200628000010/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593309367412%7D
+	http://web.archive.org/web/20200628000010/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593309368511%7D
+	http://web.archive.org/web/20200628000010/https://www.google-analytics.com/analytics.js
+	http://web.archive.org/web/20200628000010js_/https://abs.twimg.com/k/ja/init.ja.c9fffdca69c913847ca2.js
+	http://web.archive.org/web/20200628000013/https://abs.twimg.com/k/ja/0.commons.ja.62a7d78906facbc62e77.js
+	http://web.archive.org/web/20200628000013/https://abs.twimg.com/k/ja/3.pages_profile.ja.69102234c27469d8361c.js
+		http://web.archive.org/web/20200628002645im_/https://pbs.twimg.com/media/EbjQLyAWsAEKM-k.jpg
+		http://web.archive.org/web/20200628005250im_/https://pbs.twimg.com/media/EbjQTVIWkAE1K8D.jpg
+		http://web.archive.org/web/20200628005251im_/https://pbs.twimg.com/media/EbjQM2gXkAA_QvB.jpg
+		http://web.archive.org/web/20200628005251im_/https://pbs.twimg.com/media/EbjQVw1WAAAwnwx.jpg
+		http://web.archive.org/web/20200628011745im_/https://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_bigger.jpg
+http://web.archive.org/web/20200628012527/https://www.google-analytics.com/analytics.js
+http://web.archive.org/web/20200628012533im_/https://abs.twimg.com/favicons/favicon.ico
+http://web.archive.org/web/20200628012605cs_/https://abs.twimg.com/a/1592349661/css/t1/twitter_core.bundle.css
+http://web.archive.org/web/20200628012605cs_/https://abs.twimg.com/a/1592349661/css/t1/twitter_more_1.bundle.css
+http://web.archive.org/web/20200628012605cs_/https://abs.twimg.com/a/1592349661/css/t1/twitter_more_2.bundle.css
+http://web.archive.org/web/20200628012605/https://abs.twimg.com/k/en/0.commons.en.2d6be4aa18878a5eb7fc.js
+http://web.archive.org/web/20200628012605/https://abs.twimg.com/k/en/13.video_player.en.3f52df782d1539fc483a.js
+http://web.archive.org/web/20200628012605/https://abs.twimg.com/k/en/15.ondemand.PlayerHls11.en.304673362907f951662e.js
+http://web.archive.org/web/20200628012605/https://abs.twimg.com/k/en/3.pages_profile.en.ea0de5847c47838f390c.js
+http://web.archive.org/web/20200628012605/https://abs.twimg.com/k/en/init.en.fd62d0c3ae45b60cf5aa.js
+http://web.archive.org/web/20200628012605/https://analytics.twitter.com/tpm/p?_=1593307580322
+http://web.archive.org/web/20200628012605/https://analytics.twitter.com/tpm/p?_=1593307583136
+http://web.archive.org/web/20200628012605/https://analytics.twitter.com/tpm/p?_=1593307584892
+http://web.archive.org/web/20200628012605/https://analytics.twitter.com/tpm/p?_=1593307585290
+http://web.archive.org/web/20200628012605/https://analytics.twitter.com/tpm/p?_=1593307585903
+http://web.archive.org/web/20200628012605/https://analytics.twitter.com/tpm/p?_=1593307586025
+http://web.archive.org/web/20200628012605/https://analytics.twitter.com/tpm/p?_=1593307586133
+http://web.archive.org/web/20200628012605/https://analytics.twitter.com/tpm/p?_=1593307586202
+http://web.archive.org/web/20200628012605/https://analytics.twitter.com/tpm/p?_=1593307586426
+http://web.archive.org/web/20200628012605/https://analytics.twitter.com/tpm/p?_=1593307586526
+http://web.archive.org/web/20200628012605/https://analytics.twitter.com/tpm/p?_=1593307586538
+http://web.archive.org/web/20200628012605/https://analytics.twitter.com/tpm/p?_=1593307586847
+http://web.archive.org/web/20200628012605/https://analytics.twitter.com/tpm/p?_=1593307586938
+http://web.archive.org/web/20200628012605/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593307581641%7D
+http://web.archive.org/web/20200628012605/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593307585139%7D
+http://web.archive.org/web/20200628012605/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593307587265%7D
+http://web.archive.org/web/20200628012605/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593307588061%7D
+http://web.archive.org/web/20200628012605/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593307588497%7D
+http://web.archive.org/web/20200628012605/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593307589411%7D
+http://web.archive.org/web/20200628012605/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593307590380%7D
+http://web.archive.org/web/20200628012605/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593307591385%7D
+http://web.archive.org/web/20200628012605/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593307592213%7D
+http://web.archive.org/web/20200628012605/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593307593202%7D
+http://web.archive.org/web/20200628012605/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593307594171%7D
+http://web.archive.org/web/20200628012605/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593307594319%7D
+http://web.archive.org/web/20200628012605/https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593307595385%7D
+http://web.archive.org/web/20200628012605/https://twitter.com/amplify_video/1237535363159261186/pl/480x270/Wzi8o_bj7-WkwA3A.m3u8
+http://web.archive.org/web/20200628012605/https://twitter.com/amplify_video/1271136135931203585/pl/480x270/xik2n88CsLaS1c6d.m3u8
+http://web.archive.org/web/20200628012605/https://twitter.com/amplify_video/1273327834577154048/pl/480x270/-BjMgAXYmIUrPvAZ.m3u8
+http://web.archive.org/web/20200628012605/https://twitter.com/ext_tw_video/1276989335124967434/pu/pl/494x270/9g3iGWJsDmv2aLvf.m3u8
+http://web.archive.org/web/20200628012605/https://twitter.com/ext_tw_video/1276994905957642246/pu/pl/480x270/cQVUcfpRKquDXxfI.m3u8
+http://web.archive.org/web/20200628012605/https://twitter.com/realDonaldTrump
+http://web.archive.org/web/20200628012605/https://www.google-analytics.com/analytics.js
+http://web.archive.org/web/20200628012605/http://web.archive.org/screenshot/https://twitter.com/realDonaldTrump
+http://web.archive.org/web/20200628012605if_/https://cm.g.doubleclick.net/pixel?google_nid=twitter_dbm&google_cm&tpm_cb=partnerIdSyncComplete&_=1593307580323
+http://web.archive.org/web/20200628012605if_/https://cm.g.doubleclick.net/pixel?google_nid=twitter_dbm&google_cm&tpm_cb=partnerIdSyncComplete&_=1593307583137
+http://web.archive.org/web/20200628012605if_/https://cm.g.doubleclick.net/pixel?google_nid=twitter_dbm&google_cm&tpm_cb=partnerIdSyncComplete&_=1593307584893
+http://web.archive.org/web/20200628012605if_/https://cm.g.doubleclick.net/pixel?google_nid=twitter_dbm&google_cm&tpm_cb=partnerIdSyncComplete&_=1593307585291
+http://web.archive.org/web/20200628012605if_/https://cm.g.doubleclick.net/pixel?google_nid=twitter_dbm&google_cm&tpm_cb=partnerIdSyncComplete&_=1593307585904
+http://web.archive.org/web/20200628012605if_/https://cm.g.doubleclick.net/pixel?google_nid=twitter_dbm&google_cm&tpm_cb=partnerIdSyncComplete&_=1593307586026
+http://web.archive.org/web/20200628012605if_/https://cm.g.doubleclick.net/pixel?google_nid=twitter_dbm&google_cm&tpm_cb=partnerIdSyncComplete&_=1593307586134
+http://web.archive.org/web/20200628012605if_/https://cm.g.doubleclick.net/pixel?google_nid=twitter_dbm&google_cm&tpm_cb=partnerIdSyncComplete&_=1593307586203
+http://web.archive.org/web/20200628012605if_/https://cm.g.doubleclick.net/pixel?google_nid=twitter_dbm&google_cm&tpm_cb=partnerIdSyncComplete&_=1593307586427
+http://web.archive.org/web/20200628012605if_/https://cm.g.doubleclick.net/pixel?google_nid=twitter_dbm&google_cm&tpm_cb=partnerIdSyncComplete&_=1593307586527
+http://web.archive.org/web/20200628012605if_/https://cm.g.doubleclick.net/pixel?google_nid=twitter_dbm&google_cm&tpm_cb=partnerIdSyncComplete&_=1593307586539
+http://web.archive.org/web/20200628012605if_/https://cm.g.doubleclick.net/pixel?google_nid=twitter_dbm&google_cm&tpm_cb=partnerIdSyncComplete&_=1593307586848
+http://web.archive.org/web/20200628012605if_/https://cm.g.doubleclick.net/pixel?google_nid=twitter_dbm&google_cm&tpm_cb=partnerIdSyncComplete&_=1593307586939
+http://web.archive.org/web/20200628012605if_/https://twitter.com/i/jot
+http://web.archive.org/web/20200628012605if_/https://twitter.com/i/profiles/show/realDonaldTrump/media_timeline?for_photo_rail=true
+http://web.archive.org/web/20200628012605if_/https://twitter.com/i/profiles/show/realDonaldTrump/timeline/tweets?composed_count=0&include_available_features=1&include_entities=1&include_new_items_bar=true&interval=30000&latent_count=0&min_position=1276999704153337859
+http://web.archive.org/web/20200628012605if_/https://twitter.com/i/related_users/25073877
+http://web.archive.org/web/20200628012605if_/https://twitter.com/i/trends?k=&pc=true&profileUserId=25073877&show_context=true&src=module
+http://web.archive.org/web/20200628012605if_/https://twitter.com/realDonaldTrump
+http://web.archive.org/web/20200628012605im_/https://abs.twimg.com/a/1592349661/font/edge-icons-Regular.woff
+http://web.archive.org/web/20200628012605im_/https://abs.twimg.com/a/1592349661/img/animations/web_heart_animation_edge.png
+http://web.archive.org/web/20200628012605im_/https://abs.twimg.com/a/1592349661/img/t1/spinners/spinner-rosetta-gray-32x32.gif
+http://web.archive.org/web/20200628012605im_/https://abs.twimg.com/emoji/v2/72x72/1f1fa-1f1f8.png
+http://web.archive.org/web/20200628012605im_/https://abs.twimg.com/favicons/favicon.ico
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/ext_tw_video_thumb/1276989335124967434/pu/img/UTX8x9Ti64y472Ns.jpg
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/ext_tw_video_thumb/1276994905957642246/pu/img/pDxp4ooPglzi6GYv.jpg
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/media/EaP9Mk4XQAApYwu.jpg
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/media/EavFT8cXkAEq7Es.jpg
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/media/EbAGJP0WAAACDiC.jpg:thumb
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/media/EbAGJP0XQAAnESu.jpg:thumb
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/media/EbAGJP0XsAIKwLw.jpg:thumb
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/media/EbAGJPyXQAIPcKV.jpg:thumb
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/media/EbdE2gtXkAgTnYX.jpg:thumb
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/media/EbDEJQTWAAIJHCg.jpg:thumb
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/media/EbjP1z5XQAAt67C.jpg
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/media/EbjP6JVXQAYw_Ao.jpg
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/media/EbjP8n4XkAUoLNA.jpg
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/media/EbjP-aNXsAAcfYq.jpg
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/media/EbjQaIdWoAANcZr.jpg
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/media/EbjQBBTWoAEJCQ6.jpg
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/media/EbjQbzWXQAACvKp.jpg
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/media/EbjQDIrXQAEqNla.jpg
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/media/EbjQdY3XYAAKcoY.jpg
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/media/EbjQKpkXYAAokxl.jpg
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/media/EbjQLyAWsAEKM-k.jpg
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/media/EbjQM2gXkAA_QvB.jpg
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/media/EbjQTVIWkAE1K8D.jpg
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/media/EbjQVw1WAAAwnwx.jpg
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/media/EbjQX-NXgAASfVT.jpg
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/media/ESycLzuWsAA-g2_.jpg
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/profile_banners/25073877/1592726901/1500x500
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_bigger.jpg
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/profile_images/1109170568950095879/Q5nCWHLB_normal.png
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/profile_images/1265671910169489410/qO82RUjP_bigger.jpg
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/profile_images/822547732376207360/5g0FC8XX_bigger.jpg
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/profile_images/848946510918295557/RmsOl1zv_bigger.jpg
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/profile_images/859982100904148992/hv5soju7_bigger.jpg
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_400x400.jpg
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_bigger.jpg
+http://web.archive.org/web/20200628012605im_/https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg
+http://web.archive.org/web/20200628012605js_/https://abs.twimg.com/k/en/init.en.fd62d0c3ae45b60cf5aa.js
+http://web.archive.org/web/20200628012605js_/https://twitter.com/i/js_inst?c_name=ui_metrics
+http://web.archive.org/web/20200628012606cs_/https://abs.twimg.com/a/1592349661/css/t1/twitter_more_2.bundle.css
+http://web.archive.org/web/20200628012606/https://abs.twimg.com/k/en/3.pages_profile.en.ea0de5847c47838f390c.js
+		http://web.archive.org/web/20200628012606/https://pbs.twimg.com/ext_tw_video_thumb/1276989335124967434/pu/img/UTX8x9Ti64y472Ns.jpg
+		http://web.archive.org/web/20200628012606/https://pbs.twimg.com/media/EaP9Mk4XQAApYwu.jpg
+		http://web.archive.org/web/20200628012606/https://pbs.twimg.com/media/EavFT8cXkAEq7Es.jpg
+		http://web.archive.org/web/20200628012606/https://pbs.twimg.com/media/ESycLzuWsAA-g2_.jpg
+http://web.archive.org/web/20200628012606im_/https://abs.twimg.com/a/1592349661/font/edge-icons-Regular.woff
+http://web.archive.org/web/20200628012606im_/https://abs.twimg.com/emoji/v2/72x72/1f1fa-1f1f8.png
+		http://web.archive.org/web/20200628012606im_/https://pbs.twimg.com/ext_tw_video_thumb/1276989335124967434/pu/img/UTX8x9Ti64y472Ns.jpg
+		http://web.archive.org/web/20200628012606im_/https://pbs.twimg.com/media/EaP9Mk4XQAApYwu.jpg
+		http://web.archive.org/web/20200628012606im_/https://pbs.twimg.com/media/EavFT8cXkAEq7Es.jpg
+		http://web.archive.org/web/20200628012606im_/https://pbs.twimg.com/media/EbjP1z5XQAAt67C.jpg
+		http://web.archive.org/web/20200628012606im_/https://pbs.twimg.com/media/EbjP6JVXQAYw_Ao.jpg
+		http://web.archive.org/web/20200628012606im_/https://pbs.twimg.com/media/EbjP8n4XkAUoLNA.jpg
+		http://web.archive.org/web/20200628012606im_/https://pbs.twimg.com/media/EbjQaIdWoAANcZr.jpg
+		http://web.archive.org/web/20200628012606im_/https://pbs.twimg.com/media/EbjQBBTWoAEJCQ6.jpg
+		http://web.archive.org/web/20200628012606im_/https://pbs.twimg.com/media/EbjQbzWXQAACvKp.jpg
+		http://web.archive.org/web/20200628012606im_/https://pbs.twimg.com/media/EbjQDIrXQAEqNla.jpg
+		http://web.archive.org/web/20200628012606im_/https://pbs.twimg.com/media/EbjQdY3XYAAKcoY.jpg
+		http://web.archive.org/web/20200628012606im_/https://pbs.twimg.com/media/EbjQKpkXYAAokxl.jpg
+		http://web.archive.org/web/20200628012606im_/https://pbs.twimg.com/media/EbjQX-NXgAASfVT.jpg
+		http://web.archive.org/web/20200628012606im_/https://pbs.twimg.com/media/ESycLzuWsAA-g2_.jpg
+		http://web.archive.org/web/20200628012606im_/https://pbs.twimg.com/profile_banners/25073877/1592726901/1500x500
+		http://web.archive.org/web/20200628012606im_/https://pbs.twimg.com/profile_images/1109170568950095879/Q5nCWHLB_normal.png
+		http://web.archive.org/web/20200628012606im_/https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_400x400.jpg
+		http://web.archive.org/web/20200628012606im_/https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_bigger.jpg
+		http://web.archive.org/web/20200628012606im_/https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg
+		http://web.archive.org/web/20200628012607if_/https://twitter.com/i/related_users/25073877
+		http://web.archive.org/web/20200628012609/https://pbs.twimg.com/ext_tw_video_thumb/1276994905957642246/pu/img/pDxp4ooPglzi6GYv.jpg
+http://web.archive.org/web/20200628012609im_/https://abs.twimg.com/a/1592349661/img/animations/web_heart_animation_edge.png
+http://web.archive.org/web/20200628012609im_/https://abs.twimg.com/a/1592349661/img/t1/spinners/spinner-rosetta-gray-32x32.gif
+		http://web.archive.org/web/20200628012609im_/https://pbs.twimg.com/ext_tw_video_thumb/1276994905957642246/pu/img/pDxp4ooPglzi6GYv.jpg
+		http://web.archive.org/web/20200628012609im_/https://pbs.twimg.com/media/EbjP-aNXsAAcfYq.jpg
+		http://web.archive.org/web/20200628012610im_/https://pbs.twimg.com/profile_images/1265671910169489410/qO82RUjP_bigger.jpg
+		http://web.archive.org/web/20200628012610im_/https://pbs.twimg.com/profile_images/822547732376207360/5g0FC8XX_bigger.jpg
+		http://web.archive.org/web/20200628012610im_/https://pbs.twimg.com/profile_images/848946510918295557/RmsOl1zv_bigger.jpg
+		http://web.archive.org/web/20200628012610im_/https://pbs.twimg.com/profile_images/859982100904148992/hv5soju7_bigger.jpg
+http://web.archive.org/web/20200628012612/https://abs.twimg.com/k/en/13.video_player.en.3f52df782d1539fc483a.js
+http://web.archive.org/web/20200628012612/https://api.twitter.com/1.1/videos/tweet/config/1276983762690150415.json
+http://web.archive.org/web/20200628012612/https://api.twitter.com/1.1/videos/tweet/config/1276984639517851648.json
+http://web.archive.org/web/20200628012612/https://api.twitter.com/1.1/videos/tweet/config/1276984850067656705.json
+		http://web.archive.org/web/20200628012612/https://api.twitter.com/1.1/videos/tweet/config/1276991332461039618.json
+		http://web.archive.org/web/20200628012612/https://api.twitter.com/1.1/videos/tweet/config/1276995624588709888.json
+		http://web.archive.org/web/20200628012612/https://pbs.twimg.com/ext_tw_video_thumb/1276989335124967434/pu/img/UTX8x9Ti64y472Ns.jpg
+		http://web.archive.org/web/20200628012612/https://pbs.twimg.com/ext_tw_video_thumb/1276994905957642246/pu/img/pDxp4ooPglzi6GYv.jpg
+		http://web.archive.org/web/20200628012612/https://video.twimg.com/ext_tw_video/1276989335124967434/pu/pl/1wqMkfQXERqVFCCE.m3u8?tag=10
+		http://web.archive.org/web/20200628012612/https://video.twimg.com/ext_tw_video/1276994905957642246/pu/pl/1D5VS7f28l5s-R_h.m3u8?tag=10
+http://web.archive.org/web/20200628012615/https://abs.twimg.com/k/en/15.ondemand.PlayerHls11.en.304673362907f951662e.js
+		http://web.archive.org/web/20200628012615/https://api.twitter.com/1.1/videos/tweet/config/1276983762690150415.json
+		http://web.archive.org/web/20200628012615/https://api.twitter.com/1.1/videos/tweet/config/1276984639517851648.json
+		http://web.archive.org/web/20200628012615/https://api.twitter.com/1.1/videos/tweet/config/1276984850067656705.json
+		http://web.archive.org/web/20200628012615/https://pbs.twimg.com/media/EaP9Mk4XQAApYwu.jpg
+		http://web.archive.org/web/20200628012615/https://pbs.twimg.com/media/EavFT8cXkAEq7Es.jpg
+		http://web.archive.org/web/20200628012615/https://pbs.twimg.com/media/ESycLzuWsAA-g2_.jpg
+		http://web.archive.org/web/20200628012615/https://video.twimg.com/amplify_video/1237535363159261186/pl/7j-whyXYB2DnE2Lu.m3u8?tag=13
+		http://web.archive.org/web/20200628012615/https://video.twimg.com/amplify_video/1271136135931203585/pl/lrAIOhkp9gPZYkYw.m3u8?tag=13
+		http://web.archive.org/web/20200628012615/https://video.twimg.com/amplify_video/1273327834577154048/pl/MW2GEK1PTzlASwg4.m3u8?tag=13
+		http://web.archive.org/web/20200628012615/https://video.twimg.com/ext_tw_video/1276989335124967434/pu/pl/1wqMkfQXERqVFCCE.m3u8?tag=10
+		http://web.archive.org/web/20200628012615/https://video.twimg.com/ext_tw_video/1276994905957642246/pu/pl/1D5VS7f28l5s-R_h.m3u8?tag=10
+		http://web.archive.org/web/20200628012616/https://video.twimg.com/amplify_video/1237535363159261186/pl/7j-whyXYB2DnE2Lu.m3u8?tag=13
+		http://web.archive.org/web/20200628012616/https://video.twimg.com/amplify_video/1273327834577154048/pl/MW2GEK1PTzlASwg4.m3u8?tag=13
+		http://web.archive.org/web/20200628012640if_/https://twitter.com/i/profiles/show/realDonaldTrump/timeline/tweets?composed_count=0&include_available_features=1&include_entities=1&include_new_items_bar=true&interval=30000&latent_count=0&min_position=1276999704153337859
+	http://web.archive.org/web/20200628013003im_/https://abs.twimg.com/emoji/v2/72x72/1f1fa-1f1f8.png
+	http://web.archive.org/web/20200628013751im_/https://abs.twimg.com/a/1592349661/img/t1/spinners/spinner-rosetta-gray-32x32.gif
+	http://web.archive.org/web/20200628013753im_/https://abs.twimg.com/a/1592349661/img/animations/web_heart_animation_edge.png
+	http://web.archive.org/web/20200628013754cs_/https://abs.twimg.com/a/1592349661/css/t1/twitter_core.bundle.css
+	http://web.archive.org/web/20200628013754cs_/https://abs.twimg.com/a/1592349661/css/t1/twitter_more_1.bundle.css
+	http://web.archive.org/web/20200628013754cs_/https://abs.twimg.com/a/1592349661/css/t1/twitter_more_2.bundle.css
+	http://web.archive.org/web/20200628013754im_/https://abs.twimg.com/a/1592349661/font/edge-icons-Regular.woff
+	http://web.archive.org/web/20200628013754im_/https://abs.twimg.com/a/1592349661/img/animations/web_heart_animation_edge.png
+	http://web.archive.org/web/20200628013754im_/https://abs.twimg.com/a/1592349661/img/t1/spinners/spinner-rosetta-gray-32x32.gif
+	http://web.archive.org/web/20200628013800cs_/https://abs.twimg.com/a/1592349661/css/t1/twitter_core.bundle.css
+	http://web.archive.org/web/20200628013800cs_/https://abs.twimg.com/a/1592349661/css/t1/twitter_more_1.bundle.css
+	http://web.archive.org/web/20200628013800cs_/https://abs.twimg.com/a/1592349661/css/t1/twitter_more_2.bundle.css
+	http://web.archive.org/web/20200628013802js_/https://twitter.com/i/js_inst?c_name=ui_metrics
+	http://web.archive.org/web/20200628013814im_/https://abs.twimg.com/favicons/favicon.ico
+	http://web.archive.org/web/20200628013815im_/https://abs.twimg.com/favicons/favicon.ico
+	http://web.archive.org/web/20200628013835js_/https://twitter.com/i/js_inst?c_name=ui_metrics
+	http://web.archive.org/web/20200628015013/https://twitter.com/amplify_video/1237535363159261186/pl/480x270/Wzi8o_bj7-WkwA3A.m3u8
+	http://web.archive.org/web/20200628015013/https://twitter.com/amplify_video/1273327834577154048/pl/480x270/-BjMgAXYmIUrPvAZ.m3u8
+	http://web.archive.org/web/20200628015013/https://twitter.com/ext_tw_video/1276989335124967434/pu/pl/494x270/9g3iGWJsDmv2aLvf.m3u8
+	http://web.archive.org/web/20200628015013/https://twitter.com/ext_tw_video/1276994905957642246/pu/pl/480x270/cQVUcfpRKquDXxfI.m3u8
+	http://web.archive.org/web/20200628015015/https://twitter.com/amplify_video/1271136135931203585/pl/480x270/xik2n88CsLaS1c6d.m3u8
+	http://web.archive.org/web/20200628015539cs_/https://abs.twimg.com/a/1592349661/css/t1/twitter_core.bundle.css
+	http://web.archive.org/web/20200628015539cs_/https://abs.twimg.com/a/1592349661/css/t1/twitter_more_1.bundle.css
+	http://web.archive.org/web/20200628015539cs_/https://abs.twimg.com/a/1592349661/css/t1/twitter_more_2.bundle.css
+	http://web.archive.org/web/20200628015539/https://abs.twimg.com/k/ja/0.commons.ja.62a7d78906facbc62e77.js
+	http://web.archive.org/web/20200628015539/https://abs.twimg.com/k/ja/3.pages_profile.ja.69102234c27469d8361c.js
+	http://web.archive.org/web/20200628015539/https://abs.twimg.com/k/ja/init.ja.c9fffdca69c913847ca2.js
+	http://web.archive.org/web/20200628015539/https://twitter.com/amplify_video/1237535363159261186/pl/480x270/Wzi8o_bj7-WkwA3A.m3u8
+	http://web.archive.org/web/20200628015539/https://twitter.com/amplify_video/1271136135931203585/pl/480x270/xik2n88CsLaS1c6d.m3u8
+	http://web.archive.org/web/20200628015539/https://twitter.com/amplify_video/1273327834577154048/pl/480x270/-BjMgAXYmIUrPvAZ.m3u8
+	http://web.archive.org/web/20200628015539/https://twitter.com/ext_tw_video/1276989335124967434/pu/pl/494x270/9g3iGWJsDmv2aLvf.m3u8
+	http://web.archive.org/web/20200628015539/https://twitter.com/ext_tw_video/1276994905957642246/pu/pl/480x270/cQVUcfpRKquDXxfI.m3u8
+	http://web.archive.org/web/20200628015539/https://twitter.com/realDonaldTrump
+	http://web.archive.org/web/20200628015539/http://web.archive.org/screenshot/https://twitter.com/realDonaldTrump
+	http://web.archive.org/web/20200628015539if_/https://cm.g.doubleclick.net/pixel?google_nid=twitter_dbm&google_cm&tpm_cb=partnerIdSyncComplete&_=1593309356606
+	http://web.archive.org/web/20200628015539if_/https://cm.g.doubleclick.net/pixel?google_nid=twitter_dbm&google_cm&tpm_cb=partnerIdSyncComplete&_=1593309358549
+	http://web.archive.org/web/20200628015539if_/https://cm.g.doubleclick.net/pixel?google_nid=twitter_dbm&google_cm&tpm_cb=partnerIdSyncComplete&_=1593309358814
+	http://web.archive.org/web/20200628015539if_/https://cm.g.doubleclick.net/pixel?google_nid=twitter_dbm&google_cm&tpm_cb=partnerIdSyncComplete&_=1593309358923
+	http://web.archive.org/web/20200628015539if_/https://cm.g.doubleclick.net/pixel?google_nid=twitter_dbm&google_cm&tpm_cb=partnerIdSyncComplete&_=1593309358999
+	http://web.archive.org/web/20200628015539if_/https://cm.g.doubleclick.net/pixel?google_nid=twitter_dbm&google_cm&tpm_cb=partnerIdSyncComplete&_=1593309359427
+	http://web.archive.org/web/20200628015539if_/https://cm.g.doubleclick.net/pixel?google_nid=twitter_dbm&google_cm&tpm_cb=partnerIdSyncComplete&_=1593309359459
+	http://web.archive.org/web/20200628015539if_/https://cm.g.doubleclick.net/pixel?google_nid=twitter_dbm&google_cm&tpm_cb=partnerIdSyncComplete&_=1593309359590
+	http://web.archive.org/web/20200628015539if_/https://cm.g.doubleclick.net/pixel?google_nid=twitter_dbm&google_cm&tpm_cb=partnerIdSyncComplete&_=1593309359657
+	http://web.archive.org/web/20200628015539if_/https://cm.g.doubleclick.net/pixel?google_nid=twitter_dbm&google_cm&tpm_cb=partnerIdSyncComplete&_=1593309359856
+	http://web.archive.org/web/20200628015539if_/https://cm.g.doubleclick.net/pixel?google_nid=twitter_dbm&google_cm&tpm_cb=partnerIdSyncComplete&_=1593309360069
+	http://web.archive.org/web/20200628015539if_/https://cm.g.doubleclick.net/pixel?google_nid=twitter_dbm&google_cm&tpm_cb=partnerIdSyncComplete&_=1593309360309
+	http://web.archive.org/web/20200628015539if_/https://cm.g.doubleclick.net/pixel?google_nid=twitter_dbm&google_cm&tpm_cb=partnerIdSyncComplete&_=1593309360429
+	http://web.archive.org/web/20200628015539if_/https://twitter.com/i/jot
+	http://web.archive.org/web/20200628015539if_/https://twitter.com/i/profiles/show/realDonaldTrump/media_timeline?for_photo_rail=true
+	http://web.archive.org/web/20200628015539if_/https://twitter.com/i/profiles/show/realDonaldTrump/timeline/tweets?composed_count=0&include_available_features=1&include_entities=1&include_new_items_bar=true&interval=30000&latent_count=0&min_position=1276999704153337859
+	http://web.archive.org/web/20200628015539if_/https://twitter.com/i/related_users/25073877
+	http://web.archive.org/web/20200628015539if_/https://twitter.com/i/trends?k=&pc=true&profileUserId=25073877&show_context=true&src=module
+	http://web.archive.org/web/20200628015539if_/https://twitter.com/realDonaldTrump
+	http://web.archive.org/web/20200628015539im_/https://abs.twimg.com/emoji/v2/72x72/1f1fa-1f1f8.png
+	http://web.archive.org/web/20200628015539im_/https://abs.twimg.com/favicons/favicon.ico
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/ext_tw_video_thumb/1276989335124967434/pu/img/UTX8x9Ti64y472Ns.jpg
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/ext_tw_video_thumb/1276994905957642246/pu/img/pDxp4ooPglzi6GYv.jpg
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/media/EaP9Mk4XQAApYwu.jpg
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/media/EavFT8cXkAEq7Es.jpg
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/media/EbAGJP0WAAACDiC.jpg:thumb
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/media/EbAGJP0XQAAnESu.jpg:thumb
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/media/EbAGJP0XsAIKwLw.jpg:thumb
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/media/EbAGJPyXQAIPcKV.jpg:thumb
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/media/EbdE2gtXkAgTnYX.jpg:thumb
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/media/EbDEJQTWAAIJHCg.jpg:thumb
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/media/EbjP1z5XQAAt67C.jpg
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/media/EbjP6JVXQAYw_Ao.jpg
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/media/EbjP8n4XkAUoLNA.jpg
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/media/EbjP-aNXsAAcfYq.jpg
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/media/EbjQaIdWoAANcZr.jpg
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/media/EbjQBBTWoAEJCQ6.jpg
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/media/EbjQbzWXQAACvKp.jpg
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/media/EbjQDIrXQAEqNla.jpg
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/media/EbjQdY3XYAAKcoY.jpg
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/media/EbjQKpkXYAAokxl.jpg
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/media/EbjQLyAWsAEKM-k.jpg
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/media/EbjQM2gXkAA_QvB.jpg
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/media/EbjQTVIWkAE1K8D.jpg
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/media/EbjQVw1WAAAwnwx.jpg
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/media/EbjQX-NXgAASfVT.jpg
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/media/ESycLzuWsAA-g2_.jpg
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/profile_banners/25073877/1592726901/1500x500
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_bigger.jpg
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/profile_images/1109170568950095879/Q5nCWHLB_normal.png
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/profile_images/1265671910169489410/qO82RUjP_bigger.jpg
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/profile_images/822547732376207360/5g0FC8XX_bigger.jpg
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/profile_images/848946510918295557/RmsOl1zv_bigger.jpg
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/profile_images/859982100904148992/hv5soju7_bigger.jpg
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_400x400.jpg
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_bigger.jpg
+	http://web.archive.org/web/20200628015539im_/https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg
+	http://web.archive.org/web/20200628015539js_/https://abs.twimg.com/k/ja/init.ja.c9fffdca69c913847ca2.js
+	http://web.archive.org/web/20200628015539js_/https://twitter.com/i/js_inst?c_name=ui_metrics

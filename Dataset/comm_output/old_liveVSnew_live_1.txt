@@ -1,0 +1,147 @@
+	https://abs-0.twimg.com/emoji/v2/svg/1f1fa-1f1f8.svg
+https://abs.twimg.com/a/1592349661/css/t1/twitter_core.bundle.css
+https://abs.twimg.com/a/1592349661/css/t1/twitter_more_1.bundle.css
+https://abs.twimg.com/a/1592349661/css/t1/twitter_more_2.bundle.css
+https://abs.twimg.com/a/1592349661/font/edge-icons-Regular.woff
+https://abs.twimg.com/a/1592349661/img/animations/web_heart_animation_edge.png
+https://abs.twimg.com/a/1592349661/img/t1/spinners/spinner-rosetta-gray-32x32.gif
+https://abs.twimg.com/emoji/v2/72x72/1f1fa-1f1f8.png
+https://abs.twimg.com/favicons/favicon.ico
+	https://abs.twimg.com/favicons/twitter.ico
+https://abs.twimg.com/k/en/0.commons.en.2d6be4aa18878a5eb7fc.js
+https://abs.twimg.com/k/en/13.video_player.en.3f52df782d1539fc483a.js
+https://abs.twimg.com/k/en/15.ondemand.PlayerHls11.en.304673362907f951662e.js
+https://abs.twimg.com/k/en/3.pages_profile.en.ea0de5847c47838f390c.js
+https://abs.twimg.com/k/en/init.en.fd62d0c3ae45b60cf5aa.js
+	https://abs.twimg.com/responsive-web/web/bundle.NetworkInstrument.476bd334.js
+	https://abs.twimg.com/responsive-web/web/bundle.UserProfile.bd213b74.js
+	https://abs.twimg.com/responsive-web/web/heart_animation.5c9f8e84.png
+	https://abs.twimg.com/responsive-web/web/i18n-horizon/en.4754b204.js
+	https://abs.twimg.com/responsive-web/web/i18n-rweb/en.0befc7f4.js
+	https://abs.twimg.com/responsive-web/web/icon-default.3c3b2244.png
+	https://abs.twimg.com/responsive-web/web/loader.AppModules.fa5d30d4.js
+	https://abs.twimg.com/responsive-web/web/loader.graphQLDarkReads.e8830bb4.js
+	https://abs.twimg.com/responsive-web/web/loader.NewTweetsPill.b9e73944.js
+	https://abs.twimg.com/responsive-web/web/loader.SideNav.4efac6d4.js
+	https://abs.twimg.com/responsive-web/web/loaders.video.PlayerBase.299a29a4.js
+	https://abs.twimg.com/responsive-web/web/loaders.video.PlayerHls13.4ee8b5a4.js
+	https://abs.twimg.com/responsive-web/web/loaders.video.VideoPlayerDefaultUI.b42fb624.js
+	https://abs.twimg.com/responsive-web/web/loader.TimelineRenderer.d8f7e6c4.js
+	https://abs.twimg.com/responsive-web/web/loader.TweetCurationActionMenu.ee0b5e94.js
+	https://abs.twimg.com/responsive-web/web/loader.TweetPhotos.e08a9654.js
+	https://abs.twimg.com/responsive-web/web/main.a7be8724.js
+	https://abs.twimg.com/responsive-web/web/ondemand.BranchSdk.3e285644.js
+	https://abs.twimg.com/responsive-web/web/ondemand.Dropdown.990a8824.js
+	https://abs.twimg.com/responsive-web/web/ondemand.emoji.en.07097c44.js
+	https://abs.twimg.com/responsive-web/web/ondemand.EmojiPicker.1b2bf5a4.js
+	https://abs.twimg.com/responsive-web/web/ondemand.InlinePlayer.afe27d84.js
+	https://abs.twimg.com/responsive-web/web/polyfills.675e3184.js
+	https://abs.twimg.com/responsive-web/web/shared~bundle.ComposeMedia~bundle.Display~bundle.Ocf~bundle.Settings~bundle.SettingsProfile~bundle.UserLists~.ada01e04.js
+	https://abs.twimg.com/responsive-web/web/sharedCore.bef92fd4.js
+	https://abs.twimg.com/responsive-web/web/shared~ondemand.lex~loaders.video.PlayerBase.e1c043f4.js
+	https://abs.twimg.com/responsive-web/web/vendors~main.805584a4.js
+https://analytics.twitter.com/tpm/p?_=1593306382841
+https://analytics.twitter.com/tpm?pid=969&puid=CAESEMdrd-nEvz5VfJlj9QhIDbo&google_cver=1&tpm_cb=partnerIdSyncComplete&_=1593306382842
+	https://api2.branch.io/v1/has-app/key_live_knJAF6W45vSHVJiP0wn8figpqFePX59K?browser_fingerprint_id=795996138515491601
+	https://api2.branch.io/v1/pageview
+	https://api2.branch.io/v1/profile
+	https://api.twitter.com/1.1/branch/init.json
+	https://api.twitter.com/1.1/friends/following/list.json?include_profile_interstitial_type=1&include_blocking=1&include_blocked_by=1&include_followed_by=1&include_want_retweets=1&include_mute_edge=1&include_can_dm=1&include_can_media_tag=1&skip_status=1&cursor=-1&user_id=25073877&count=3&with_total_count=true
+https://api.twitter.com/1.1/guest/activate.json
+	https://api.twitter.com/1.1/jot/client_event.json
+	https://api.twitter.com/1.1/live_pipeline/update_subscriptions
+https://api.twitter.com/1.1/videos/tweet/config/1276995624588709888.json
+	https://api.twitter.com/2/badge_count/badge_count.json?supports_ntab_urt=1
+	https://api.twitter.com/2/notifications/all.json?include_profile_interstitial_type=1&include_blocking=1&include_blocked_by=1&include_followed_by=1&include_want_retweets=1&include_mute_edge=1&include_can_dm=1&include_can_media_tag=1&skip_status=1&cards_platform=Web-12&include_cards=1&include_ext_alt_text=true&include_reply_count=1&tweet_mode=extended&include_entities=true&include_user_entities=true&include_ext_media_color=true&include_ext_media_availability=true&send_error_codes=true&simple_quoted_tweet=true&count=20&ext=mediaStats%2ChighlightedLabel&include_quote_count=true
+	https://api.twitter.com/2/notifications/all.json?include_profile_interstitial_type=1&include_blocking=1&include_blocked_by=1&include_followed_by=1&include_want_retweets=1&include_mute_edge=1&include_can_dm=1&include_can_media_tag=1&skip_status=1&cards_platform=Web-12&include_cards=1&include_ext_alt_text=true&include_reply_count=1&tweet_mode=extended&include_entities=true&include_user_entities=true&include_ext_media_color=true&include_ext_media_availability=true&send_error_codes=true&simple_quoted_tweet=true&count=40&cursor=DAABDAABCgABEBXrW13XUAAIAAIAAAABCAADSQ3bEQgABPXbFGcACwACAAAAC0FYTDEwLUdUWkdvAAA&ext=mediaStats%2ChighlightedLabel&include_quote_count=true
+	https://api.twitter.com/2/timeline/profile/25073877.json?include_profile_interstitial_type=1&include_blocking=1&include_blocked_by=1&include_followed_by=1&include_want_retweets=1&include_mute_edge=1&include_can_dm=1&include_can_media_tag=1&skip_status=1&cards_platform=Web-12&include_cards=1&include_ext_alt_text=true&include_reply_count=1&tweet_mode=extended&include_entities=true&include_user_entities=true&include_ext_media_color=true&include_ext_media_availability=true&send_error_codes=true&simple_quoted_tweet=true&include_tweet_replies=false&userId=25073877&count=20&ext=mediaStats%2ChighlightedLabel&include_quote_count=true
+	https://api.twitter.com/graphql/-xfUfZsnR_zqjFd-IfrN5A/UserByScreenName?variables=%7B%22screen_name%22%3A%22realdonaldtrump%22%2C%22withHighlightedLabel%22%3Atrue%7D
+	https://app.link/_r?sdk=web2.52.3&_t=795996138515491601&branch_key=key_live_knJAF6W45vSHVJiP0wn8figpqFePX59K&callback=branch_callback__0
+https://cm.g.doubleclick.net/pixel?google_nid=twitter_dbm&google_cm&tpm_cb=partnerIdSyncComplete&_=1593306382842
+https://cm.g.doubleclick.net/pixel?google_nid=twitter_dbm&google_cm=&tpm_cb=partnerIdSyncComplete&_=1593306382842&google_tc=
+https://pbs.twimg.com/ext_tw_video_thumb/1276989335124967434/pu/img/UTX8x9Ti64y472Ns.jpg
+		https://pbs.twimg.com/ext_tw_video_thumb/1276994905957642246/pu/img/pDxp4ooPglzi6GYv.jpg
+	https://pbs.twimg.com/hashflag/config-2020-06-28-01.json
+https://pbs.twimg.com/media/EaP9Mk4XQAApYwu.jpg
+https://pbs.twimg.com/media/EavFT8cXkAEq7Es.jpg
+https://pbs.twimg.com/media/EbjP1z5XQAAt67C.jpg
+https://pbs.twimg.com/media/EbjP6JVXQAYw_Ao.jpg
+https://pbs.twimg.com/media/EbjP8n4XkAUoLNA.jpg
+https://pbs.twimg.com/media/EbjP-aNXsAAcfYq.jpg
+	https://pbs.twimg.com/media/EbjQaIdWoAANcZr?format=jpg&name=medium
+https://pbs.twimg.com/media/EbjQaIdWoAANcZr.jpg
+https://pbs.twimg.com/media/EbjQaIdWoAANcZr.jpg:thumb
+https://pbs.twimg.com/media/EbjQBBTWoAEJCQ6.jpg
+	https://pbs.twimg.com/media/EbjQbzWXQAACvKp?format=jpg&name=medium
+https://pbs.twimg.com/media/EbjQbzWXQAACvKp.jpg
+https://pbs.twimg.com/media/EbjQbzWXQAACvKp.jpg:thumb
+https://pbs.twimg.com/media/EbjQDIrXQAEqNla.jpg
+	https://pbs.twimg.com/media/EbjQdY3XYAAKcoY?format=jpg&name=900x900
+https://pbs.twimg.com/media/EbjQdY3XYAAKcoY.jpg
+https://pbs.twimg.com/media/EbjQdY3XYAAKcoY.jpg:thumb
+https://pbs.twimg.com/media/EbjQKpkXYAAokxl.jpg
+https://pbs.twimg.com/media/EbjQLyAWsAEKM-k.jpg
+https://pbs.twimg.com/media/EbjQM2gXkAA_QvB.jpg
+https://pbs.twimg.com/media/EbjQTVIWkAE1K8D.jpg
+https://pbs.twimg.com/media/EbjQTVIWkAE1K8D.jpg:thumb
+https://pbs.twimg.com/media/EbjQVw1WAAAwnwx.jpg
+https://pbs.twimg.com/media/EbjQVw1WAAAwnwx.jpg:thumb
+https://pbs.twimg.com/media/EbjQX-NXgAASfVT.jpg
+https://pbs.twimg.com/media/EbjQX-NXgAASfVT.jpg:thumb
+https://pbs.twimg.com/media/ESycLzuWsAA-g2_.jpg
+	https://pbs.twimg.com/profile_banners/25073877/1592726901/1080x360
+https://pbs.twimg.com/profile_banners/25073877/1592726901/1500x500
+https://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_bigger.jpg
+https://pbs.twimg.com/profile_images/1109170568950095879/Q5nCWHLB_normal.png
+	https://pbs.twimg.com/profile_images/1183146511137497089/fCNLVyv6_normal.jpg
+	https://pbs.twimg.com/profile_images/1197998057662533633/hAsoeSJa_normal.jpg
+	https://pbs.twimg.com/profile_images/1212596118154027010/Wpj-Z02d_bigger.jpg
+	https://pbs.twimg.com/profile_images/1221214911285600257/nizoGjt1_normal.jpg
+https://pbs.twimg.com/profile_images/1265671910169489410/qO82RUjP_bigger.jpg
+https://pbs.twimg.com/profile_images/822547732376207360/5g0FC8XX_bigger.jpg
+https://pbs.twimg.com/profile_images/848946510918295557/RmsOl1zv_bigger.jpg
+https://pbs.twimg.com/profile_images/859982100904148992/hv5soju7_bigger.jpg
+	https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_200x200.jpg
+https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_400x400.jpg
+https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_bigger.jpg
+https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg
+	https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_x96.jpg
+https://syndication.twitter.com/i/jot/syndication?l=%7B%22_category_%22%3A%22syndicated_impression%22%2C%22event_namespace%22%3A%7B%22client%22%3A%22web%22%2C%22page%22%3A%22profile%22%2C%22action%22%3A%22impression%22%7D%2C%22triggered_on%22%3A1593306383211%7D
+	https://twitter.com/i/csp_report?a=O5RXE%3D%3D%3D&ro=false
+https://twitter.com/i/jot
+https://twitter.com/i/js_inst?c_name=ui_metrics
+https://twitter.com/i/profiles/show/realDonaldTrump/media_timeline?for_photo_rail=true
+https://twitter.com/i/profiles/show/realDonaldTrump/timeline/tweets?composed_count=0&include_available_features=1&include_entities=1&include_new_items_bar=true&interval=30000&latent_count=0&min_position=1276999704153337859
+https://twitter.com/i/related_users/25073877
+https://twitter.com/i/trends?k=&pc=true&profileUserId=25073877&show_context=true&src=module
+	https://twitter.com/manifest.json
+https://twitter.com/push_service_worker.js
+		https://twitter.com/realDonaldTrump
+		https://video.twimg.com/ext_tw_video/1276994905957642246/pu/pl/1280x720/mFDWOwrZ8X3G6KbB.m3u8
+		https://video.twimg.com/ext_tw_video/1276994905957642246/pu/pl/1D5VS7f28l5s-R_h.m3u8?tag=10
+		https://video.twimg.com/ext_tw_video/1276994905957642246/pu/pl/480x270/cQVUcfpRKquDXxfI.m3u8
+		https://video.twimg.com/ext_tw_video/1276994905957642246/pu/vid/0/3000/1280x720/oowmEU540FqK1cXb.ts
+		https://video.twimg.com/ext_tw_video/1276994905957642246/pu/vid/0/3000/480x270/ruUsbem0AAQgw5a7.ts
+		https://video.twimg.com/ext_tw_video/1276994905957642246/pu/vid/12000/15000/1280x720/tcWqM_t6q1n5xnn2.ts
+https://video.twimg.com/ext_tw_video/1276994905957642246/pu/vid/15000/18000/1280x720/w2iSdWSJUN30DIc8.ts
+https://video.twimg.com/ext_tw_video/1276994905957642246/pu/vid/18000/21000/1280x720/M8AG1L_tT4JIOMRM.ts
+https://video.twimg.com/ext_tw_video/1276994905957642246/pu/vid/21000/24000/1280x720/pYb9LT4Lb_9lYORu.ts
+https://video.twimg.com/ext_tw_video/1276994905957642246/pu/vid/24000/27000/1280x720/CCsivI4LfEhyPjAW.ts
+https://video.twimg.com/ext_tw_video/1276994905957642246/pu/vid/27000/30000/1280x720/q4w6jN-lvB1KRufc.ts
+https://video.twimg.com/ext_tw_video/1276994905957642246/pu/vid/30000/33000/1280x720/Yx4Q7KvQnrihEv55.ts
+		https://video.twimg.com/ext_tw_video/1276994905957642246/pu/vid/3000/6000/1280x720/tzgqIPwphZpKYKGk.ts
+https://video.twimg.com/ext_tw_video/1276994905957642246/pu/vid/33000/36000/1280x720/FzdsRCwJVLpisOdi.ts
+https://video.twimg.com/ext_tw_video/1276994905957642246/pu/vid/36000/39000/1280x720/BRmGFauTRvLykL6X.ts
+https://video.twimg.com/ext_tw_video/1276994905957642246/pu/vid/39000/42000/1280x720/DA8jMtjtf-3KUmmg.ts
+https://video.twimg.com/ext_tw_video/1276994905957642246/pu/vid/42000/45000/1280x720/YdG3yglU5wVUvKZQ.ts
+https://video.twimg.com/ext_tw_video/1276994905957642246/pu/vid/45000/48000/1280x720/-T5fVs-eNGKSrf7K.ts
+https://video.twimg.com/ext_tw_video/1276994905957642246/pu/vid/48000/51000/1280x720/NA_cgoG3labuVpBs.ts
+https://video.twimg.com/ext_tw_video/1276994905957642246/pu/vid/51000/54000/1280x720/z3fe99l7xuBvqai2.ts
+https://video.twimg.com/ext_tw_video/1276994905957642246/pu/vid/54000/57000/1280x720/9RYudaYeiulxkhbA.ts
+https://video.twimg.com/ext_tw_video/1276994905957642246/pu/vid/57000/60000/1280x720/PQSw4E_I7dxmQrSC.ts
+https://video.twimg.com/ext_tw_video/1276994905957642246/pu/vid/60000/63000/1280x720/yytNddUK8P46O1AG.ts
+		https://video.twimg.com/ext_tw_video/1276994905957642246/pu/vid/6000/9000/1280x720/LRWPw15AnG8wrQlp.ts
+https://video.twimg.com/ext_tw_video/1276994905957642246/pu/vid/63000/66000/1280x720/KGnhljpD5tcXjHAn.ts
+https://video.twimg.com/ext_tw_video/1276994905957642246/pu/vid/66000/70144/1280x720/VHRYorgItgFPqmge.ts
+		https://video.twimg.com/ext_tw_video/1276994905957642246/pu/vid/9000/12000/1280x720/B6AKo8x8rL9zLche.ts
+		https://www.google-analytics.com/analytics.js
