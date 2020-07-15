@@ -4,4 +4,4 @@ This github repository is created as a part of our blog post where we analyze th
 
 You may refer to the README file inside the Dataset folder for more information on our dataset.
 
-Please visit out blog at: * INSERT URL * 
+Please visit out blog at: https://ws-dl.blogspot.com/2020/07/2020-07-15-twitter-was-already.html
